@@ -1,6 +1,6 @@
 <div align="center">
   
-# 𝓥𝓲𝓷𝓪𝔂𝓪� 𝓢𝓪𝔁𝓮𝓷𝓪 💻🚀
+# 𝓥𝓲𝓷𝓪𝔂𝓪K 𝓢𝓪𝔁𝓮𝓷𝓪 💻🚀
 **`Backend Architect | Full-Stack Alchemist`**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](LINK_HERE)
