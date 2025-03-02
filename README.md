@@ -70,6 +70,6 @@ vinayaksaxena13)
 
 ```diff
 + 🛡️ Built Security Microservices with JWT & Spring Security
-+ 🚀 Containerized 15+ Spring Boot Apps using Docker
++ 🚀 Containerized  Spring Boot Apps using Docker
 + 🔗 Developed REST APIs with 90% Test Coverage
 + 🧩 Integrated React Frontend with Java Backend Systems
