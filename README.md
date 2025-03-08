@@ -43,7 +43,7 @@ vinayaksaxena13)
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="48" height="48"/>
-      <br>Git
+      <br>Git Hub
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48" height="48"/>
