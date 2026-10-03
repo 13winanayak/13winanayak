@@ -1,190 +1,286 @@
 <div align="center">
-  
-# 𝓥𝓲𝓷𝓪𝔂𝓪𝓴 𝓢𝓪𝔁𝓮𝓷𝓪 💻
-**`Backend Architect | Full-Stack Alchemist | AI Workflow Engineer`**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayaksaxena13)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+# 𝓥𝓲𝓷𝓪𝔂𝓪𝓴 𝓢𝓪𝔁𝓮𝓷𝓪
+
+### `Software Engineer • Full-Stack Developer • Backend & FinTech`
+
+**Building reliable software across backend systems, modern web applications, and enterprise platforms.**
+
+<p>
+  <a href="https://github.com/vinayaksaxena13">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/vinayaksaxena13">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 🎯 **Code Warrior's Arsenal**
+## 👨‍💻 About Me
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java"/>
-      <br><b>Java</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="48" height="48" alt="Spring"/>
-      <br><b>Spring Boot</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/>
-      <br><b>React</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/>
-      <br><b>Docker</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter"/>
-      <br><b>Flutter</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/>
-      <br><b>MySQL</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>
-      <br><b>PostgreSQL</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="48" height="48" alt="Grafana"/>
-      <br><b>Grafana</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
-      <br><b>Git</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="48" height="48" alt="Kubernetes"/>
-      <br><b>Kubernetes</b>
-    </td>
-  </tr>
+I'm a **Software Engineer focused on building production-oriented applications and scalable business systems**.
+
+My work sits at the intersection of **backend engineering, full-stack development, fintech, security, and enterprise platforms**.
+
+I enjoy taking a problem from **domain modeling → API design → database architecture → frontend experience → deployment**, while keeping the system maintainable and extensible.
+
+### What I work on
+
+- ⚙️ Backend systems with **Java & Spring Boot**
+- 🧩 Full-stack applications with **Next.js, React & TypeScript**
+- 💳 **FinTech & payment-oriented platforms**
+- 🛡️ **GRC, compliance & Third-Party Risk Management**
+- 🔐 **IAM, RBAC, authentication & MFA**
+- 🗄️ Relational databases and data-intensive applications
+- 🔎 Search, observability & analytics platforms
+- 📦 Monorepos and reusable application architecture
+- 🤖 AI-assisted development & workflow automation
+- 🐳 Containerized development with Docker
+
+---
+
+## 🧠 Engineering Stack
+
+<table width="100%">
+
+<tr>
+<td width="25%" align="center"><b>Backend</b></td>
+<td width="75%">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat"/>
+<img src="https://img.shields.io/badge/Microservices-FF6F00?style=flat"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>Frontend</b></td>
+<td>
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>Data</b></td>
+<td>
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat&logo=clickhouse&logoColor=black"/>
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=flat"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>Search & Observability</b></td>
+<td>
+
+<img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat&logo=opensearch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=google&logoColor=white"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>Dev & Infrastructure</b></td>
+<td>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white"/>
+<img src="https://img.shields.io/badge/pnpm-F69220?style=flat&logo=pnpm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat&logo=turborepo&logoColor=white"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>Security</b></td>
+<td>
+
+<img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/RBAC-4B5563?style=flat"/>
+<img src="https://img.shields.io/badge/MFA-7C3AED?style=flat"/>
+<img src="https://img.shields.io/badge/OAuth2-3C873A?style=flat"/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>AI & Automation</b></td>
+<td>
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_Workflows-111827?style=flat"/>
+
+</td>
+</tr>
+
 </table>
 
 ---
 
-## 🚀 **Tech Stack Superpowers**
+## 🚀 What I Build
 
-<table align="center" width="100%">
-  <tr>
-    <td width="25%" align="center"><b>💻 Backend</b></td>
-    <td width="75%">
-      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Boot"/>
-      <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white" alt="Hibernate"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
-      <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🎨 Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black" alt="React"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"/>
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🗄️ Databases</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🛠️ DevOps & Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins"/>
-      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" alt="Grafana"/>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🤖 AI & Automation</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" alt="n8n"/>
-      <img src="https://img.shields.io/badge/Sim_Studio_AI-000000?style=flat&logo=ai&logoColor=white" alt="Sim Studio AI"/>
-      <img src="https://img.shields.io/badge/Lovable_AI-FF6B6B?style=flat&logo=ai&logoColor=white" alt="Lovable AI"/>
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🔐 Security</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white" alt="JWT"/>
-      <img src="https://img.shields.io/badge/OAuth2-3C873A?style=flat&logo=auth0&logoColor=white" alt="OAuth2"/>
-      <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Security"/>
-    </td>
-  </tr>
-</table>
+### 💳 FinTech Systems
+
+Building software around financial workflows, payment processing, account management, settlement, pricing, velocity controls, reporting, and administrative operations.
+
+I focus on **correctness, traceability, security, and maintainable domain models** rather than simply exposing APIs.
+
+### 🛡️ GRC & Compliance Platforms
+
+Working on enterprise platforms involving:
+
+- Governance & compliance frameworks
+- Control libraries
+- Risk assessments
+- Evidence management
+- Findings & remediation
+- Third-Party Risk Management
+- Vendor management
+- Control packages
+- Assessment workflows
+- Maker-checker approval flows
+
+### 🔐 Identity & Access Management
+
+Designing authentication and authorization workflows including:
+
+- Internal & external users
+- Role-based permissions
+- Custom roles
+- Group-based access
+- JWT authentication
+- MFA
+- Password reset flows
+- User lifecycle management
+- Vendor onboarding
+
+### 🧩 Full-Stack Applications
+
+Building modern applications using:
+
+`Next.js + React + TypeScript + Spring Boot + PostgreSQL`
+
+with an emphasis on:
+
+- Reusable components
+- Clean API boundaries
+- Responsive dashboards
+- RBAC-aware interfaces
+- Internationalization
+- Scalable frontend architecture
+- Maintainable monorepos
 
 ---
 
-## ✨ **Project Magic**
+## 🏗️ Engineering Principles
 
-```diff
-🛡️ Security & Authentication
-+ Built enterprise-grade microservices with JWT & Spring Security
-+ Implemented OAuth2 authentication flows with 99.9% uptime
-+ Designed role-based access control (RBAC) for multi-tenant applications
-
-🚀 Cloud & DevOps
-+ Containerized 15+ Spring Boot applications using Docker & Kubernetes
-+ Established CI/CD pipelines with Jenkins reducing deployment time by 70%
-+ Configured real-time monitoring dashboards using Grafana & Prometheus
-
-🔗 API Development
-+ Developed RESTful APIs serving 1M+ requests/day with 90% test coverage
-+ Implemented GraphQL endpoints for flexible data querying
-+ Optimized API response time by 60% through caching strategies
-
-🤖 AI & Automation
-+ Built intelligent workflow automation using n8n for business processes
-+ Integrated AI agents with Sim Studio AI for enhanced user experiences
-+ Leveraged Lovable AI tools for rapid prototyping and development
-
-🎨 Full-Stack Development
-+ Seamlessly integrated React/Flutter frontends with Java backend systems
-+ Developed cross-platform mobile applications using Flutter
-+ Created responsive web applications with React, TypeScript & Tailwind CSS
-
-📊 Data & Analytics
-+ Designed and optimized complex database schemas for high-performance apps
-+ Implemented real-time data visualization using Grafana
-+ Built ETL pipelines processing millions of records daily
+```text
+┌──────────────────────────────────────────────────────────┐
+│                    HOW I ENGINEER                       │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  🧠 Understand the domain before writing the code       │
+│                                                          │
+│  🏛️  Design boundaries before adding complexity          │
+│                                                          │
+│  🔐 Treat security and authorization as first-class      │
+│                                                          │
+│  🗄️  Model data for correctness and long-term change    │
+│                                                          │
+│  🧩 Prefer reusable components over duplicated logic    │
+│                                                          │
+│  🧪 Validate behavior with meaningful tests             │
+│                                                          │
+│  📦 Keep architecture modular and maintainable          │
+│                                                          │
+│  🚀 Optimize for production, not just demonstration     │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 ```
 
-
 ---
 
-## 🎓 **Continuous Learning**
+## 📌 Current Focus
 
 <div align="center">
 
-![](https://img.shields.io/badge/Focus-Microservices_Architecture-blueviolet?style=for-the-badge)
-![](https://img.shields.io/badge/Learning-AI_Integration-orange?style=for-the-badge)
-![](https://img.shields.io/badge/Exploring-Cloud_Native_Tech-success?style=for-the-badge)
+<img src="https://img.shields.io/badge/Backend-Java_%7C_Spring_Boot-ED8B00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Frontend-Next.js_%7C_React-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Domain-FinTech_%7C_GRC-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Architecture-Distributed_Systems-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Exploring-AI_Engineering-059669?style=for-the-badge"/>
 
 </div>
 
 ---
 
+## 📈 Always Learning
+
+I'm continuously improving across:
+
+- **System Design & Distributed Systems**
+- **Cloud-Native Architecture**
+- **Advanced Spring & Java**
+- **Frontend Architecture**
+- **Security Engineering**
+- **Data & Observability**
+- **AI-assisted Software Engineering**
+- **Engineering productivity & developer tooling**
+
+---
+
+## 💡 Beyond the Code
+
+I enjoy understanding **how complex systems work**, breaking large problems into smaller pieces, and turning ambiguous requirements into software that can actually be maintained.
+
+I'm particularly interested in the intersection of:
+
+**Software Engineering × FinTech × Security × AI**
+
+---
+
 <div align="center">
-  
-### 💬 **Let's Connect & Build Something Amazing!**
 
-*"Transforming ideas into scalable, intelligent solutions"*
+### Let's Build Something Meaningful.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/vinayaksaxena13)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vinayaksaxena13)
+**Engineering systems that are secure, scalable, and built to evolve.**
 
-⭐️ From [VinayakSaxena](https://github.com/vinayaksaxena13)
+<br/>
+
+<a href="https://github.com/vinayaksaxena13">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vinayaksaxena13">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=vinayaksaxena13&style=flat-square&color=blue" alt="Profile views"/>
 
 </div>
